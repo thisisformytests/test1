@@ -5,4 +5,5 @@ git restore filename or . -возвращает удаленные файлы
 git checkout -b имя -создает новую ветку   git branch имя
 git checkout имя перемещение по веткам
 git merge слияние
+git branch --delete имя -удалить ветку локально
 git push origin --delete имя -удалить ветку на сервере
