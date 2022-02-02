@@ -7,3 +7,4 @@ git checkout имя перемещение по веткам
 git merge слияние
 git branch --delete имя -удалить ветку локально
 git push origin --delete имя -удалить ветку на сервере
+git commit --ammend -m "massage" -если забыл добавить файл в коммит, делаем add на пропущенный файл и добавляем в коммит
