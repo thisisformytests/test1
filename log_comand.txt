@@ -1,6 +1,7 @@
 git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 git reset -удаляет из ADD
-git checkout filename -возвращает файл в исходное состояние
+git checkout filename -возвращает файл в исходное состояние (также возвращает удаленные файлы)
+git reset --hard -откатывает все изменение и возращает все файлы в исходное состояние
 git restore filename or . -возвращает удаленные файлы
 git checkout -b имя -создает новую ветку   git branch имя
 git checkout имя перемещение по веткам
