@@ -1,2 +1,2 @@
 # test1
-thisisformytests_test1
+This is a test repository
