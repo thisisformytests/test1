@@ -1,3 +1,4 @@
 git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 git reset -удаляет из ADD
 git checkout filename -возвращает файл в исходное состояние
+git restore filename or . -возвращает удаленные файлы
