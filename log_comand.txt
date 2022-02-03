@@ -15,3 +15,5 @@ git checkout имя перемещение по веткам
 git merge слияние
 git branch --delete имя -удалить ветку локально
 git push origin --delete имя -удалить ветку на сервере
+
+git push --set-upstream origin имя -залитие новой ветки(гит подскажет если че)
