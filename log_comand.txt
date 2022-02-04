@@ -11,6 +11,7 @@ git commit --ammend -m "massage" -если забыл добавить файл 
 
 git checkout -b имя -создает новую ветку или
 git branch имя
+git branch -v покажет все ветки
 git checkout имя перемещение по веткам
 git merge слияние
 git branch --delete имя -удалить ветку локально
